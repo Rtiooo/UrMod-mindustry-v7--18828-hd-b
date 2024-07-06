@@ -47,7 +47,7 @@ cloudMesh: {
 mesh: {
 
     type: NoiseMesh
-    planet: 18828-HD-b
+    planet: 18828-HDb
     seed: 562697
     color1: DA70D6
     color2: d4fea1
